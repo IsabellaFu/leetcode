@@ -1,4 +1,5 @@
-// HashMap 
+# HashMap 
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
      Map <Integer, Integer> map = new HashMap <> ();
@@ -14,7 +15,8 @@ class Solution {
         }
 }
 
-// brute force
+# brute force
+
 class TwoSum{
     public int[] twoSum(int[] nums, int target) {
         int size = nums.length;
