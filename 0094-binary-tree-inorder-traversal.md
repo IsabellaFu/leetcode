@@ -1,6 +1,7 @@
-//Inorder Tree Traversal:
-//https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/
+# Inorder Tree Traversal:
+https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/
 
+```
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> list = new ArrayList<>();
@@ -22,3 +23,4 @@ class Solution {
     }
 
 }
+```
