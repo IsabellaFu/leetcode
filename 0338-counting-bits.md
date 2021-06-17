@@ -1,5 +1,6 @@
 ## Bitwise operator
 left shift: https://docs.microsoft.com/en-us/cpp/cpp/left-shift-and-right-shift-operators-input-and-output?view=msvc-160
+/
 AND &: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND
 
 ```
